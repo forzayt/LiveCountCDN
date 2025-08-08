@@ -102,18 +102,3 @@ Example HTML:
 
 ---
 
-## 📷 Example Output
-
-**On your site:**
-
-```
-Live Visitors: 5
-Room: /index.html
-```
-
-Updates instantly when new visitors arrive or leave.
-
----
-
-```
-
