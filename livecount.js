@@ -1,13 +1,13 @@
 
 // ====== CONFIG: replace these with values from your Firebase console ======
 const firebaseConfig = {
-  apiKey: "AIzaSyBgWvYqf2pv2iCyMe8Ui7BKrVjGHXGoSfI",
-  authDomain: "livecountupdate.firebaseapp.com",
-  databaseURL: "https://livecountupdate-default-rtdb.firebaseio.com",
-  projectId: "livecountupdate",
-  storageBucket: "livecountupdate.firebasestorage.app",
-  messagingSenderId: "392205412851",
-  appId: "1:392205412851:web:3734f056ed22322ff7ca86"
+  apiKey: "",
+  authDomain: "",
+  databaseURL: "",
+  projectId: "",
+  storageBucket: "",
+  messagingSenderId: "",
+  appId: ""
 };
 // ========================================================================
 
@@ -56,3 +56,4 @@ setInterval(async () => {
     });
   } catch (e) { /* ignore cleanup errors */ }
 }, 1000 * 60 * 5); // every 5 minutes
+
